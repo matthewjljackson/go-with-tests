@@ -6,4 +6,5 @@ use (
 	./integers
 	./iteration
 	./perimeter
+	./wallet
 )
