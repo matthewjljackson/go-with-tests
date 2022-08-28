@@ -10,5 +10,6 @@ use (
 	./iteration
 	./mocking
 	./perimeter
+	./racer
 	./wallet
 )
