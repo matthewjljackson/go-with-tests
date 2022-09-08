@@ -13,6 +13,6 @@ use (
 	./perimeter
 	./racer
 	./reflection
-	./sync
+	./store
 	./wallet
 )
